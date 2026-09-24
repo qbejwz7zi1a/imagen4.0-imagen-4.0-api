@@ -1,0 +1,12 @@
+{
+  "repo": "imagen4.0-imagen-4.0-api",
+  "model": "imagen-4.0-apimart",
+  "display": "Imagen 4.0",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "default": 0.04
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
