@@ -2,7 +2,7 @@
 
 > **default $0.04** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-44d603)** · **[Get an API key](https://go.apimart.ai/k-613f7d)**
 
 Everything here refers to **imagen-4.0** — also written **imagen4.0** or **imagen 4.0**.
 
